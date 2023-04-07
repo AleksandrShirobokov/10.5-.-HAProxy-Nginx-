@@ -17,6 +17,8 @@
 ## Задание 3. Установите и запустите Haproxy.
 ### Команда systemctl status haproxy.service:
 ![Снимок экрана (79)](https://user-images.githubusercontent.com/69298696/230536453-5d311982-5773-4c67-89db-3049a979bce4.png)
+### Статистика порта:
+![Снимок экрана (80)](https://user-images.githubusercontent.com/69298696/230544072-72f8b5d3-fd77-4b41-8492-9d32f7262679.png)
 ## Задание 4. Установите и запустите Nginx.
 ### Работающая служба Nginx:
 ![Снимок экрана (77)](https://user-images.githubusercontent.com/69298696/230535557-603d76ce-3014-4a40-88b7-fe5537a3c5b3.png)

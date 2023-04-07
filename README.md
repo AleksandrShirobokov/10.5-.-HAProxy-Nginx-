@@ -24,3 +24,8 @@
 ![Снимок экрана (77)](https://user-images.githubusercontent.com/69298696/230535557-603d76ce-3014-4a40-88b7-fe5537a3c5b3.png)
 ### Проверка сервера Nginx:
 ![Снимок экрана (78)](https://user-images.githubusercontent.com/69298696/230535730-b4667233-2a8b-4c46-b9c8-43ab960e157a.png)
+## Задание 5.
+### Конфигурация файла:
+![Снимок экрана (57)](https://user-images.githubusercontent.com/69298696/230604932-52b4af86-c222-434a-92f6-22ec3e732d17.png)
+### Ответ на запрос:
+![Снимок экрана (58)](https://user-images.githubusercontent.com/69298696/230605030-581a660c-3fe7-49a6-b140-49148585b8fc.png)
